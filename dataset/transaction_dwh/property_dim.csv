@@ -1,430 +1,109 @@
 property_id,propertyType
-1,Unknown
-2,Single Family
-3,Single Family
 4,Single Family
-5,Single Family
-6,Condo
 7,Single Family
-8,Single Family
-9,Apartment
-10,Single Family
-11,Single Family
+9,Duplex-Triplex
 12,Single Family
-13,Condo
-14,Single Family
-15,Land
+14,Land
 16,Single Family
-17,Condo
-18,Condo
-19,Single Family
-20,Condo
+18,Single Family
+20,Single Family
+268,Single Family
 21,Single Family
-22,Single Family
-23,Single Family
-24,Single Family
-25,Manufactured
-26,Single Family
-27,Duplex-Triplex
+26,Condo
 28,Single Family
-29,Single Family
-30,Apartment
-31,Single Family
-32,Single Family
-33,Single Family
-34,Single Family
-35,Duplex-Triplex
-36,Single Family
-37,Single Family
-38,Apartment
-39,Single Family
-40,Apartment
+33,Townhouse
+40,Single Family
 41,Single Family
-42,Single Family
-43,Condo
-44,Single Family
 45,Single Family
-46,Single Family
 47,Apartment
-48,Land
-49,Duplex-Triplex
+48,Single Family
 50,Single Family
-51,Apartment
-52,Single Family
-53,Single Family
 54,Single Family
-55,Single Family
-56,Single Family
-57,Single Family
-58,Condo
-59,Single Family
-60,Single Family
-61,Manufactured
-62,Single Family
+61,Condo
 63,Single Family
 64,Single Family
 65,Single Family
-66,Single Family
-67,Single Family
-68,Single Family
-69,Unknown
-70,Single Family
-71,Single Family
+68,Condo
 72,Single Family
-73,Single Family
-74,Single Family
-75,Condo
-76,Single Family
-77,Single Family
 78,Single Family
 79,Single Family
-80,Single Family
+135,Single Family
 81,Single Family
 82,Single Family
-83,Single Family
-84,Apartment
-85,Single Family
-86,Single Family
-87,Single Family
-88,Single Family
-89,Townhouse
-90,Manufactured
-91,Single Family
-92,Single Family
-93,Single Family
-94,Single Family
-95,Single Family
-96,Manufactured
-97,Single Family
-98,Single Family
-99,Single Family
-100,Single Family
-101,Single Family
-102,Condo
-103,Condo
-104,Single Family
-105,Single Family
-106,Manufactured
-107,Single Family
-108,Single Family
-109,Single Family
-110,Apartment
-111,Condo
-112,Single Family
-113,Single Family
+404,Single Family
+89,Single Family
+90,Single Family
+96,Single Family
+342,Single Family
+102,Single Family
+103,Single Family
+104,Land
+107,Condo
+109,Condo
 114,Condo
-115,Condo
-116,Single Family
-117,Land
-118,Single Family
-119,Single Family
 120,Single Family
-121,Single Family
-122,Condo
-123,Single Family
-124,Single Family
-125,Single Family
-126,Single Family
-127,Single Family
-128,Single Family
-129,Single Family
-130,Single Family
-131,Single Family
-132,Condo
 133,Single Family
-134,Single Family
-135,Duplex-Triplex
-136,Single Family
-137,Single Family
-138,Unknown
-139,Condo
-140,Single Family
-141,Single Family
+138,Single Family
 142,Single Family
-143,Land
-144,Single Family
+143,Single Family
 145,Single Family
-146,Condo
-147,Single Family
-148,Single Family
-149,Single Family
-150,Single Family
-151,Single Family
-152,Single Family
-153,Single Family
-154,Single Family
-155,Single Family
+146,Single Family
+362,Apartment
 156,Single Family
-157,Single Family
-158,Single Family
 159,Single Family
 160,Single Family
-161,Condo
-162,Apartment
-163,Single Family
-164,Single Family
-165,Single Family
-166,Townhouse
-167,Single Family
-168,Single Family
-169,Single Family
-170,Condo
-171,Single Family
-172,Condo
-173,Single Family
+164,Condo
 174,Single Family
-175,Single Family
-176,Single Family
-177,Single Family
-178,Single Family
-179,Duplex-Triplex
-180,Duplex-Triplex
-181,Single Family
-182,Single Family
-183,Single Family
-184,Single Family
-185,Single Family
-186,Single Family
-187,Land
-188,Apartment
-189,Single Family
-190,Single Family
-191,Single Family
-192,Single Family
-193,Single Family
+192,Unknown
 194,Single Family
-195,Single Family
-196,Single Family
-197,Single Family
 198,Single Family
-199,Land
-200,Condo
-201,Manufactured
-202,Condo
-203,Single Family
-204,Single Family
+201,Condo
 205,Single Family
-206,Single Family
-207,Condo
 208,Single Family
-209,Condo
 210,Single Family
-211,Single Family
-212,Single Family
-213,Unknown
-214,Single Family
-215,Single Family
-216,Single Family
-217,Single Family
-218,Duplex-Triplex
-219,Single Family
-220,Single Family
-221,Condo
-222,Single Family
-223,Single Family
 224,Single Family
-225,Single Family
-226,Duplex-Triplex
-227,Single Family
-228,Single Family
-229,Single Family
-230,Single Family
-231,Land
-232,Single Family
-233,Single Family
-234,Single Family
-235,Single Family
-236,Single Family
-237,Single Family
-238,Condo
-239,Single Family
-240,Land
+229,Land
+232,Condo
+238,Single Family
 241,Single Family
 242,Single Family
-243,Single Family
-244,Single Family
-245,Single Family
-246,Duplex-Triplex
-247,Single Family
-248,Single Family
-249,Single Family
-250,Condo
-251,Single Family
-252,Single Family
-253,Single Family
-254,Single Family
-255,Single Family
-256,Single Family
-257,Single Family
-258,Duplex-Triplex
-259,Duplex-Triplex
+258,Single Family
 260,Single Family
-261,Single Family
-262,Single Family
-263,Single Family
-264,Single Family
-265,Single Family
-266,Condo
-267,Single Family
-268,Single Family
-269,Single Family
-270,Single Family
-271,Single Family
-272,Single Family
-273,Single Family
-274,Single Family
-275,Single Family
-276,Duplex-Triplex
-277,Single Family
-278,Single Family
-279,Single Family
-280,Single Family
-281,Single Family
-282,Single Family
-283,Single Family
-284,Manufactured
-285,Single Family
-286,Single Family
-287,Single Family
-288,Single Family
-289,Manufactured
-290,Duplex-Triplex
-291,Single Family
-292,Apartment
-293,Single Family
-294,Single Family
-295,Single Family
-296,Single Family
-297,Single Family
-298,Single Family
-299,Single Family
-300,Single Family
-301,Duplex-Triplex
-302,Single Family
-303,Single Family
-304,Single Family
-305,Single Family
-306,Single Family
-307,Single Family
-308,Single Family
-309,Single Family
-310,Single Family
-311,Single Family
-312,Single Family
-313,Townhouse
-314,Duplex-Triplex
-315,Single Family
-316,Single Family
-317,Single Family
-318,Single Family
-319,Single Family
-320,Single Family
-321,Single Family
-322,Condo
-323,Single Family
-324,Single Family
-325,Single Family
-326,Single Family
-327,Single Family
-328,Condo
-329,Single Family
-330,Single Family
-331,Single Family
-332,Single Family
-333,Single Family
+279,Condo
 334,Single Family
-335,Single Family
-336,Townhouse
-337,Single Family
-338,Single Family
-339,Single Family
-340,Single Family
-341,Single Family
-342,Apartment
-343,Single Family
-344,Single Family
-345,Unknown
-346,Single Family
-347,Duplex-Triplex
-348,Single Family
-349,Unknown
+280,Single Family
+285,Manufactured
+287,Single Family
+289,Single Family
+292,Condo
+294,Single Family
+298,Single Family
+302,Single Family
+306,Single Family
+308,Condo
+312,Single Family
+314,Single Family
+324,Land
+331,Condo
+333,Single Family
 350,Single Family
-351,Manufactured
-352,Condo
-353,Single Family
 354,Single Family
-355,Single Family
-356,Condo
-357,Single Family
-358,Single Family
-359,Single Family
-360,Single Family
-361,Single Family
-362,Single Family
-363,Single Family
-364,Single Family
-365,Single Family
-366,Land
-367,Single Family
-368,Duplex-Triplex
-369,Single Family
-370,Condo
-371,Unknown
-372,Single Family
-373,Single Family
-374,Single Family
-375,Townhouse
-376,Single Family
+359,Condo
+375,Condo
 377,Single Family
-378,Single Family
-379,Single Family
-380,Single Family
-381,Single Family
-382,Single Family
+378,Condo
 383,Single Family
-384,Single Family
-385,Condo
-386,Single Family
-387,Unknown
-388,Single Family
-389,Single Family
-390,Single Family
-391,Apartment
-392,Single Family
 393,Single Family
-394,Single Family
 395,Single Family
-396,Single Family
-397,Duplex-Triplex
-398,Condo
+397,Single Family
 399,Single Family
-400,Condo
-401,Land
-402,Single Family
-403,Single Family
-404,Condo
-405,Single Family
-406,Single Family
 407,Single Family
 408,Single Family
-409,Single Family
-410,Single Family
 411,Single Family
-412,Condo
-413,Apartment
 414,Single Family
-415,Single Family
-416,Single Family
-417,Single Family
 418,Single Family
-419,Single Family
-420,Single Family
-421,Single Family
-422,Condo
-423,Single Family
-424,Duplex-Triplex
-425,Condo
-426,Single Family
-427,Manufactured
-428,Manufactured
-429,Single Family
+420,Condo
+421,Duplex-Triplex
+423,Manufactured
+424,Condo
+425,Single Family
